@@ -5,16 +5,16 @@
 
 ---
 <h3 align="center">⚡ Tech Stack  ⚡
-
+<br>
 <img src="https://img.shields.io/badge/PYTHON-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Database-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
+
 
 📚 Studying 📚
 
 <img src="https://img.shields.io/badge/SSAFY-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TIL-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
+<br>
 <img src="https://img.shields.io/badge/정처기-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/취준-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
