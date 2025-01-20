@@ -12,7 +12,7 @@
 
 📚 Studying 📚
 
-<img src="https://img.shields.io/badge/SSAFY-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/SS-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TIL-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <br>
 <img src="https://img.shields.io/badge/정처기-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
